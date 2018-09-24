@@ -1,1 +1,10 @@
 How does the router map packets in the IP network?	By mapping it with a forwarding table, using the prefixes in the destination address in the header.
+"What does ""forwarding"" mean?"	The act of a single router sending a packet from an incoming link to an ougoing link.
+"What does ""routing"" mean?"	It involves all network routers, whose collective interactions via routing protocols determine the paths that packets take on their trips from the source to destination.
+What do routers use to know where to send packets?	Forwarding tables.
+What is a connection-oriented network called?	Virtual Circuit (VC) network
+What is a connectionless-oriented network called?	Datagram network.
+What happens to the VC number in a packet's header?	It's updated and changed along its path through the network. It's used to determine which outgoing links to be sent to.
+What happens when a new VC number is created?	All forwarding tables in the packet's path are updated to include the new VC number.
+How do routers send packets in a datagram network?	The destination address in the packet header is matched with the longest prefix in the forwarding table.&nbsp;
+How often is a forwarding table updated in a datagram network, and what consequences does it have?	Every one-to-five minutes, and since this can happen at any time, a series of packets may arrive out of order because the paths were switched mid-transer.
