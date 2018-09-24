@@ -1,0 +1,1 @@
+How does the router map packets in the IP network?	By mapping it with a forwarding table, using the prefixes in the destination address in the header.
