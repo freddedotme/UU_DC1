@@ -1,5 +1,6 @@
 # UU_DC1
-Flash cards for Data Communication 1 (2018).
+Flash cards for Data Communication 1 (2018).  
+The questions and answers are based of _Computer Network - A Top-Down Approach (6th edition)_.
 
 ### How to contribute
 1. Install [Anki](https://apps.ankiweb.net).
