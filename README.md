@@ -6,4 +6,4 @@ Flash cards for Data Communication 1 (2018).
 2. Import `uu_dc1.txt` (**Make sure to import with tabs**).
 3. Make changes.
 4. Export `uu_dc1.txt`.
-5. Make a PR.
+5. Make a [PR](https://github.com/freddedotme/UU_DC1/pulls).
