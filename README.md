@@ -11,4 +11,4 @@ This is a __complement__ once you've read the chapters. Use at __your own risk__
 5. Make a [PR](https://github.com/freddedotme/UU_DC1/pulls).
 
 ### Regarding imports
-Anki saves a state for each flash card so makes sure that you 
+Anki saves a state for each flash card so makes sure that you import it correctly or states will be lost.
