@@ -12,3 +12,20 @@ This is a __complement__ once you've read the chapters. Use at __your own risk__
 
 ### Regarding imports
 Anki saves a state for each flash card so makes sure that you import it correctly or states will be lost.
+
+### Reading
+
+| Chapters |
+| :--- |
+| 1.1-1.2, 1.5, 1.7 | 
+| 1.3-1.4  | 
+| 3.1-3.4, 3.6, 6.2 |
+| 3.5, 3.7 |
+| 5.3 |
+| 5.4, 6.3.1-3 |
+| 4.1-4.2 |
+| 4.4.1-3 |
+| 4.6 |
+| 4.4.4, 5.4.1, 2.5 |
+| 5.7 |
+| 8.1-8.4 |
